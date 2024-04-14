@@ -1,39 +1,11 @@
-# Projects
-CppBenchmark CppBenchmark https://github.com/chronoxor/CppBenchmark.git master
-CppCommon CppCommon https://github.com/chronoxor/CppCommon.git master
-CppLogging CppLogging https://github.com/chronoxor/CppLogging.git master
-CppSecurity CppSecurity https://github.com/chronoxor/CppSecurity.git master
-CppSerialization CppSerialization https://github.com/chronoxor/CppSerialization.git master
-CppServer CppServer https://github.com/chronoxor/CppServer.git master
-CppTemplate CppTemplate https://github.com/chronoxor/CppTemplate.git master
-CppTrader CppTrader https://github.com/chronoxor/CppTrader.git master
-CSharpServer CSharpServer https://github.com/chronoxor/CSharpServer.git master
-FastBinaryEncoding FastBinaryEncoding https://github.com/chronoxor/FastBinaryEncoding.git master
-NetCoreServer NetCoreServer https://github.com/chronoxor/NetCoreServer.git master
-PrimeTrader PrimeTrader https://github.com/chronoxor/PrimeTrader.git master
-ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git master
+# Work projects
+dde-cooperation ut/dde-cooperation git@github.com:re2zero/dde-cooperation.git master
+util-dfm ut/util-dfm git@github.com:linuxdeepin/util-dfm.git master
+dde-file-manager ut/dde-file-manager git@github.com:re2zero/dde-file-manager.git master
+deepin-diskmanager ut/deepin-diskmanager git@github.com:re2zero/deepin-diskmanager.git master
+deepin-anything ut/deepin-anything git@github.com:re2zero/deepin-anything.git master
+dde-file-manager-extensions ut/dde-file-manager-extensions git@github.com:re2zero/dde-file-manager-extensions.git master
 
-# Modules
-Argon2 modules/Argon2 https://github.com/P-H-C/phc-winner-argon2.git master
-asio modules/asio https://github.com/chriskohlhoff/asio.git master
-Boxer modules/Boxer https://github.com/aaronmjacobs/Boxer.git master
-capnproto modules/capnproto https://github.com/capnproto/capnproto.git master
-Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git devel
-cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git main
-flatbuffers modules/flatbuffers https://github.com/google/flatbuffers.git master
-fmt modules/fmt https://github.com/fmtlib/fmt.git master
-HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git main
-libbcrypt modules/libbcrypt https://github.com/chronoxor/libbcrypt.git master
-libscrypt modules/libscrypt https://github.com/technion/libscrypt.git master
-OpenSSL modules/OpenSSL https://github.com/chronoxor/OpenSSL.git master
-protobuf modules/protobuf https://github.com/google/protobuf.git main
-rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
-SQLiteCpp modules/SQLiteCpp https://github.com/SRombauts/SQLiteCpp.git master
-swagger-ui modules/swagger-ui https://github.com/swagger-api/swagger-ui.git master
-tomlplusplus modules/tomlplusplus https://github.com/marzer/tomlplusplus.git master
-vld modules/vld https://github.com/chronoxor/vld.git master
-zlib modules/zlib https://github.com/madler/zlib.git master
-
-# Scripts
-build scripts/build https://github.com/chronoxor/CppBuildScripts.git master
-cmake scripts/cmake https://github.com/chronoxor/CppCMakeScripts.git master
+# upstream
+lsquic gh/lsquic git@github.com:re2zero/lsquic.git master
+coost gh/coost git@github.com:re2zero/coost.git master
